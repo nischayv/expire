@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "download-file": "^0.1.5"
+    "download": "^6.2.5",
+    "got": "^7.1.0"
   }
 }
